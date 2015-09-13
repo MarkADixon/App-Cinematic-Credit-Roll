@@ -1,0 +1,6 @@
+Content\UI\Microgramma48.xnb
+Content\UI\Star1.xnb
+Content\UI\Star2.xnb
+Content\UI\pixel.xnb
+Content\OST\Overture.xnb
+Content\OST\Overture.wma
