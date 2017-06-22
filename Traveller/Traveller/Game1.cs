@@ -41,8 +41,9 @@ namespace Traveller
 #endif
 
 #if XBOX || WINDOWS
-            graphics.PreferredBackBufferWidth = 1280;
-            graphics.PreferredBackBufferHeight = 720;
+            graphics.PreferredBackBufferWidth = 1440;
+            graphics.PreferredBackBufferHeight = 900;
+            graphics.IsFullScreen = true;
 #endif
             graphics.PreferMultiSampling = true;
             parameters.MultiSampleCount = 16;
